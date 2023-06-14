@@ -1,3 +1,5 @@
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/ea6f7361-17a7-4ee4-83c7-58d2d12efc97)
+
 <h1 align="center">Hi 👋, I'm Lahiru Harshana Jayasinghe</h1>
 <h3 align="center">Full Stack Developer from Sri Lanka</h3>
 
