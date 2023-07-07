@@ -1,4 +1,4 @@
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/ea6f7361-17a7-4ee4-83c7-58d2d12efc97)
+![Uploading 1.png…]()
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Lahiru+Harshana;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
