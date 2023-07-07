@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Lahiru+Harshana+Jayasinghe...;Competitive+Programmer.;IJSE+GDSE+Student.;Java+%7C+Algorithams+%7C+OOP)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiruharshana&label=Profile%20views&color=0e75b6&style=flat" alt="lahiruharshana" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,6 +10,7 @@
 <a href="https://www.hackerearth.com/lahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="lahiru" height="30" width="40" /></a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiruharshana&label=Profile%20views&color=0e75b6&style=flat" alt="lahiruharshana" /> </p>
 <img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
 
 <h3 align="left">Languages and Tools:</h3>
