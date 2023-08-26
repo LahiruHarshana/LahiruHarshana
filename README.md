@@ -1,8 +1,40 @@
 ![Component 4](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/b3e0fc42-1af7-4e0d-9fac-8787563af01b)
 
+
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Lahiru+Harshana;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p><br>
+
+I enjoy building robust and scalable stand-alone systems, web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions.
+  Software Engineering Student @IJSE, I'm  currently studying advanced API Development for cross-platform web application development.<br><br>
+    💻 My tech stack includes Java, Mysql, Javafx, JDBC, ORM (Hibernate), Java Sockets, HTML, CSS, JavaScript & Bootstrap, and web development using Servlet Java. <br>    
+    🌱 I'm constantly learning and staying up-to-date with the latest technologies and industry trends.<br>I'm particularly excited about diving into the Internet of Things (IoT) and its potential to revolutionize our lives.<br><br>
+    📫 You can reach me at lharshana2002@gmail.com for any collaboration or project opportunities. I'm always open to exciting discussions and connecting with fellow developers. <br><br>
+    🌐 Check out my portfolio to see some of my recent projects and contributions.
+<br>    <br>Let's connect and create amazing things together! 
+
+
+# 💻 Tech Stack:
+
+## Language Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,ts,python,bash,html,css,c,postman" />
+  </a>
+</p>
+ 
+  ## Frameworks, Libraries & Tools
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jquery,bootstrap,angular,tailwind,maven,figma,linux" />
+  </a>
+</p>
+ 
+## ORM
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=hibernate" />
+  </a>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -15,7 +47,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiruharshana&label=Profile%20views&color=0e75b6&style=flat" alt="lahiruharshana" /> </p>
 <img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LahiruHarshana&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lahiruharshana&show_icons=true&locale=en&layout=compact" alt="lahiruharshana" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LahiruHarshana&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=LahiruHarshana&limit=5&theme=dark&combine_all_yearly_contributions=true)
