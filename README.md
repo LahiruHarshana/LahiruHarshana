@@ -60,3 +60,24 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LahiruHarshana&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LahiruHarshana&theme=tokyonight" />
+  
+ <p>
+
+<br>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LahiruHarshana&theme=tokyonight&utcOffset=8" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LahiruHarshana&theme=tokyonight" />
+
+***...Contact ME...*** 😥 <br>
+   
+   <p align="center">
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)
+![Google](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)
+![FaceBook](https://img.shields.io/badge/FaceBook-blue?logo=FaceBook&logoColor=white&style=for-the-badge)
