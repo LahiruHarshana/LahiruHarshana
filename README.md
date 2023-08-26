@@ -14,6 +14,8 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
     🌐 Check out my portfolio to see some of my recent projects and contributions.
 <br>    <br>Let's connect and create amazing things together! 
 
+***
+
 
 # 💻 Tech Stack:
 
@@ -30,6 +32,8 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
     <img src="https://skillicons.dev/icons?i=jquery,bootstrap,angular,tailwind,maven,figma,linux" />
   </a>
 </p>
+
+***
  
 ## ORM
   <a href="https://skillicons.dev">
@@ -47,16 +51,24 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiruharshana&label=Profile%20views&color=0e75b6&style=flat" alt="lahiruharshana" /> </p>
 <img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
 
+***
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LahiruHarshana&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+***
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LahiruHarshana&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
 
+***
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+***
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LahiruHarshana&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -67,9 +79,19 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
   
  <p>
 
-<br>
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LahiruHarshana&theme=tokyonight&utcOffset=8" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LahiruHarshana&theme=tokyonight" />
+
+***
+<h5 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢 ! 
+</h5>
+<div align="center">
+  
+![repo size](https://img.shields.io/github/repo-size/LahiruHarshana/LahiruHarshana?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub stars](https://img.shields.io/github/stars/LahiruHarshana/LahiruHarshana?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/LahiruHarshana/LahiruHarshana?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+
+***
 
 ***...Contact ME...*** 😥 <br>
    
