@@ -1,9 +1,6 @@
 ![Component 4](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/b3e0fc42-1af7-4e0d-9fac-8787563af01b)
 
 
-![image](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3e927334-5d58-439b-88a7-58414591d14e)
-
-
 
 
 <p align="center">
@@ -62,9 +59,28 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 ***
 
 # 📊 GitHub Stats:
+
+
 ![](https://github-readme-stats.vercel.app/api?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LahiruHarshana&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div>
+  <div align="center"> 
+  
+![image](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3e927334-5d58-439b-88a7-58414591d14e)
+</div>
+</div>
+
+<div align="center">
+
+<h3 align="center">
+  Profile 3D Contributions 🔰
+</h3>
+
+![profile 3d](https://github.com/LahiruHarshana/LahiruHarshana/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
 
 ***
 
