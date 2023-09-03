@@ -74,15 +74,12 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 </div>
 </div>
 
-<div align="center">
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/LahiruHarshana/count.svg" />
+</p>
 
-<h3 align="center">
-  Profile 3D Contributions 🔰
-</h3>
 
-![profile 3d](https://github.com/LahiruHarshana/LahiruHarshana/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
 
 ***
 
