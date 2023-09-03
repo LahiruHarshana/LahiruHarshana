@@ -1,6 +1,10 @@
 ![Component 4](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/b3e0fc42-1af7-4e0d-9fac-8787563af01b)
 
 
+![image](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3e927334-5d58-439b-88a7-58414591d14e)
+
+
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Lahiru+Harshana;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
