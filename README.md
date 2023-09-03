@@ -130,5 +130,6 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 ![FaceBook](https://img.shields.io/badge/FaceBook-blue?logo=FaceBook&logoColor=white&style=for-the-badge)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
