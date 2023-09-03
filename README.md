@@ -1,9 +1,6 @@
 ![Component 4](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/b3e0fc42-1af7-4e0d-9fac-8787563af01b)
 
 
-
-
-<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Lahiru+Harshana;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p><br>
 
@@ -54,9 +51,14 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 ***
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiruharshana&label=Profile%20views&color=0e75b6&style=flat" alt="lahiruharshana" /> </p>
-<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
 
-***
+<div>
+<div align="center">
+
+![github-contribution-grid-snake](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/9acff605-fa00-4d19-921f-f4155fe419e4)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>
+
+</div>
+</div>
 
 # 📊 GitHub Stats:
 
