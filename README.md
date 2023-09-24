@@ -21,7 +21,11 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
     🌐 Check out my portfolio to see some of my recent projects and contributions.
 <br>    <br>Let's connect and create amazing things together! 
 
-***
+<div align="center">
+
+![GradientLine](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/0d640627-ce70-4d15-8908-23f9ca0f3ecd)
+
+</div>
 
 
 # 💻 Tech Stack:
