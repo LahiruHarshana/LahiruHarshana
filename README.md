@@ -63,8 +63,9 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 
 ***
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lahiruharshana&label=Profile%20views&color=0e75b6&style=flat" alt="lahiruharshana" /> </p>
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=LahiruHarshana&label=Visitors&color=9acd32&style=for-the-badge"> 
+</p>
 <div>
 <div align="center">
 
