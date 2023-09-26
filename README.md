@@ -76,9 +76,18 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 # 📊 GitHub Stats:
 
 
+<div>
+  <div align="center">
+    
+
+
+
 ![](https://github-readme-stats.vercel.app/api?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LahiruHarshana&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+  </div>
+</div>
 
 <div>
   <div align="center"> 
