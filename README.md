@@ -68,7 +68,7 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 <div>
 <div align="center">
 
-![github-contribution-grid-snake](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/9acff605-fa00-4d19-921f-f4155fe419e4)<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg"><desc>
+  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LahiruHarshana&theme=redical)](https://github.com/LahiruHarshana)  
 
 </div>
 </div>
