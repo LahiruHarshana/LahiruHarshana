@@ -23,7 +23,7 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 
 <div align="center">
 
-![GradientLine](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/0d640627-ce70-4d15-8908-23f9ca0f3ecd)
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
 
 </div>
 
@@ -44,14 +44,14 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
   </a>
 </p>
 
-***
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d8087e59-0a56-41f0-91e5-6637bda69095)
  
 ## ORM
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=hibernate" />
   </a>
 
-  ***
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -61,7 +61,7 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 <a href="https://www.hackerearth.com/lahiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="lahiru" height="30" width="40" /></a>
 </p>
 
-***
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/c9ab9de8-7884-479e-8adc-68bd989d9337)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=LahiruHarshana&label=Visitors&color=9acd32&style=for-the-badge"> 
@@ -109,17 +109,18 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 
 
 
-***
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3b2e5a98-a768-4020-a3f4-2c870007a58f)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LahiruHarshana&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
 
-***
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3156a30e-d55a-4768-824c-e6868b31fc35)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-***
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/f8b691c7-b2e7-4a49-b47f-e1795372c60b)
+
 
 ### 🔝 Top Contributed Repo
 
@@ -130,7 +131,8 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
  <p>
 
 
-***
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/9b805f21-9fbc-4c04-8769-bc34ea1389e4)
+
 <h5 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
 𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢 ! 
@@ -141,7 +143,7 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 ![GitHub stars](https://img.shields.io/github/stars/LahiruHarshana/LahiruHarshana?&labelColor=black&color=f7b731&style=for-the-badge)
 ![GitHub LastCommit](https://img.shields.io/github/last-commit/LahiruHarshana/LahiruHarshana?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
 
-***
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/784d6806-7737-4a4e-9fac-3c4baf0c691f)
 
 ***...Contact ME...*** 😥 <br>
    
