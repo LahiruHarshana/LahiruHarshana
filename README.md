@@ -30,27 +30,19 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 
 
 # 💻 Tech Stack:
+<div align="center">
 
-## Language Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,ts,python,bash,html,css,c,postman" />
-  </a>
-</p>
- 
-  ## Frameworks, Libraries & Tools
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,bootstrap,angular,tailwind,maven,figma,linux" />
-  </a>
-</p>
-
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d8087e59-0a56-41f0-91e5-6637bda69095)
- 
-## ORM
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=hibernate" />
-  </a>
+| Title | Icon |
+| ------ | ------ |
+| IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" /> |
+| App Development |  <img src="https://skillicons.dev/icons?i=dart,java" /> |
+| Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts" /> |
+| Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express,mysql,mongodb" /> |
+| UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
+| Others |  <img src="https://skillicons.dev/icons?i=arduino,appwrite,firebase,discord,git,github,maven,postman,powershell,bash" /> |
+| favourite |  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,materialui,js,jquery,ts,express,nodejs,mongodb" /> |
+                                                                
+</div>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
