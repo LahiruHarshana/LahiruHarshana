@@ -108,8 +108,11 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3b2e5a98-a768-4020-a3f4-2c870007a58f)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LahiruHarshana&theme=radical&no-frame=true&no-bg=false&margin-w=4)<br/>
-
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=LahiruHarshana&layout=compact&theme=algolia" alt="LahiruHarshana" />
+ </a>
+</p>
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/3156a30e-d55a-4768-824c-e6868b31fc35)
 
 ### ✍️ Random Dev Quote
