@@ -4,11 +4,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/LahiruHarshana.svg)](https://user-badge.committers.top/sri_lanka/LahiruHarshana) </br>
 
-<div align="center">
-    <a href="https://web.facebook.com/profile.php?id=100094338579204"><img src="https://img.shields.io/badge/Facebook-Lahiru%20Harshana%20Jayasinghe-%231877F2?style=flat&logo=facebook&logoColor=white" alt="kavindu-mane"/></a>&nbsp; &nbsp;
-    <a href="https://www.linkedin.com/in/lahiru-harshana-858699252/"><img src="https://img.shields.io/badge/LinkedIn-Lahiru%20Harshana%20Jayasinghe-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="kavindu-mane"/></a>&nbsp; &nbsp;
-    <a href="https://twitter.com/LahiruHarsh"><img src="https://img.shields.io/badge/Twitter-Lahiru%20Harshana%20Jayasinghe-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="kavindu-mane"/></a>
-</div>
+
 
 <div>
   <div align="center"> 
@@ -18,6 +14,25 @@
 </div>
 </div>
 
+</div>
+&nbsp; &nbsp
+<div>
+
+<div align="center">
+    <a href="https://web.facebook.com/profile.php?id=100094338579204"><img src="https://img.shields.io/badge/Facebook-Lahiru%20Harshana%20Jayasinghe-%231877F2?style=flat&logo=facebook&logoColor=white" alt="kavindu-mane"/></a>&nbsp; &nbsp;
+    <a href="https://www.linkedin.com/in/lahiru-harshana-858699252/"><img src="https://img.shields.io/badge/LinkedIn-Lahiru%20Harshana%20Jayasinghe-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="kavindu-mane"/></a>&nbsp; &nbsp;
+    <a href="https://twitter.com/LahiruHarsh"><img src="https://img.shields.io/badge/Twitter-Lahiru%20Harshana%20Jayasinghe-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="kavindu-mane"/></a>
+</div>
+&nbsp; &nbsp
+<div>
+</div>
+&nbsp; &nbsp
+<div>
+</div>
+&nbsp; &nbsp
+<div>
+    
+</div>
 I enjoy building robust and scalable stand-alone systems, web applications, creating intuitive user interfaces, and solving complex problems with elegant solutions.
   Software Engineering Student @IJSE, I'm  currently studying advanced API Development for cross-platform web application development.<br><br>
     💻 My tech stack includes Java, Mysql, Javafx, JDBC, ORM (Hibernate), Java Sockets, HTML, CSS, JavaScript & Bootstrap, and web development using Servlet Java. <br>    
