@@ -4,6 +4,12 @@
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/LahiruHarshana.svg)](https://user-badge.committers.top/sri_lanka/LahiruHarshana) </br>
 
+<div align="center">
+    <a href="https://web.facebook.com/profile.php?id=100094338579204"><img src="https://img.shields.io/badge/Facebook-Lahiru%20Harshana%20Jayasinghe-%231877F2?style=flat&logo=facebook&logoColor=white" alt="kavindu-mane"/></a>&nbsp; &nbsp;
+    <a href="https://www.linkedin.com/in/lahiru-harshana-858699252/"><img src="https://img.shields.io/badge/LinkedIn-Lahiru%20Harshana%20Jayasinghe-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="kavindu-mane"/></a>&nbsp; &nbsp;
+    <a href="https://twitter.com/LahiruHarsh"><img src="https://img.shields.io/badge/Twitter-Lahiru%20Harshana%20Jayasinghe-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="kavindu-mane"/></a>
+</div>
+
 <div>
   <div align="center"> 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Lahiru+Harshana;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
