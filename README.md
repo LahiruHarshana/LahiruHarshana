@@ -4,7 +4,9 @@
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/LahiruHarshana.svg)](https://user-badge.committers.top/sri_lanka/LahiruHarshana) </br>
 
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=LahiruHarshana&label=Visitors&color=9acd32&style=for-the-badge"> 
+</p>
 
 <div>
   <div align="center"> 
@@ -75,9 +77,7 @@ I enjoy building robust and scalable stand-alone systems, web applications, crea
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/c9ab9de8-7884-479e-8adc-68bd989d9337)
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=LahiruHarshana&label=Visitors&color=9acd32&style=for-the-badge"> 
-</p>
+
 <div>
 <div align="center">
 
