@@ -2,8 +2,6 @@
 
 ![Component 4](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/b3e0fc42-1af7-4e0d-9fac-8787563af01b)
 
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/LahiruHarshana.svg)](https://user-badge.committers.top/sri_lanka/LahiruHarshana) </br>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=LahiruHarshana&label=Visitors&color=9acd32&style=for-the-badge"> 
 </p>
