@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=50&duration=1&pause=1500&color=2BE642&center=true&vCenter=true&width=1080&height=150&lines=%3C%F0%9F%91%8BHello%2C+World!%2F%3E;%3C%F0%9F%91%8BAyubowan%2C+World!%2F%3E;%3C%F0%9F%91%8BHola%2C+World!%2F%3E;%3C%F0%9F%91%8BN%C7%90+h%C7%8Eo%2C+World!%2F%3E;%3C%F0%9F%91%8BCiao%2C+World!%2F%3E;%3C%F0%9F%91%8BNamasthe%2C+World!%2F%3E" alt="Typing SVG" /></a>
+### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I%20am%20Lahiru%20Harshana)
 
 
 ![Component 4](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/b3e0fc42-1af7-4e0d-9fac-8787563af01b)
