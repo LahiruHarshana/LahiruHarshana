@@ -41,14 +41,15 @@ I'm a passionate Software Engineering student at **IJSE**, specializing in **Adv
 
 ---
 
-### Profile Views
-counting of visitors to this page in this section started from march 21, 2025
+### 👀 Profile Views
 
-<img src="https://count.getloli.com/get/@:LahiruHarshana?theme=gelbooru-h" alt=":name" />
+**Counting of visitors to this page started from March 21, 2025.**
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LahiruHarshana" width="auto"></img>
+![Visitor Count](https://count.getloli.com/get/@:LahiruHarshana?theme=gelbooru-h)
+
+</div>
 
 ---
 
