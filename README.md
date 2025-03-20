@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I%20am%20Lahiru%20Harshana)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=61dafb&text=I%20am%20Lahiru%20Harshana&fontSize=50&animation=fadeIn)
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=LahiruHarshana&label=Visitors&color=9acd32&style=for-the-badge"> 
+  <img src="https://komarev.com/ghpvc/?username=LahiruHarshana&label=Visitors&color=61dafb&style=for-the-badge"> 
 </p>
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Lahiru+Harshana;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Lahiru+Harshana;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50&color=61dafb&size=25">
   </a>
 </div>
 
@@ -57,9 +57,17 @@ I'm a passionate Software Engineering student at **IJSE**, specializing in **Adv
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LahiruHarshana&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruHarshana&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img align="left" width="390" src="https://streak-stats.demolab.com/?user=LahiruHarshana&theme=react&border=61dafb&hide_border=true" alt="LahiruHarshana" />
+
+<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=LahiruHarshana&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="LahiruHarshana" />
+
+</div>
+
+<br clear="both" />
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruHarshana&theme=react&hide_border=true&layout=compact" alt="LahiruHarshana" />
 
 </div>
 
@@ -69,7 +77,7 @@ I'm a passionate Software Engineering student at **IJSE**, specializing in **Adv
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LahiruHarshana&theme=algolia&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LahiruHarshana&theme=react&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -79,7 +87,7 @@ I'm a passionate Software Engineering student at **IJSE**, specializing in **Adv
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LahiruHarshana&theme=redical)](https://github.com/LahiruHarshana)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LahiruHarshana&theme=react-dark)](https://github.com/LahiruHarshana)
 
 </div>
 
@@ -89,9 +97,9 @@ I'm a passionate Software Engineering student at **IJSE**, specializing in **Adv
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LahiruHarshana&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LahiruHarshana&theme=2077)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LahiruHarshana&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LahiruHarshana&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LahiruHarshana&theme=react)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LahiruHarshana&theme=react)
 
 </div>
 
@@ -125,5 +133,5 @@ I'm a passionate Software Engineering student at **IJSE**, specializing in **Adv
 </h5>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=80&section=footer"/>
 </p>
