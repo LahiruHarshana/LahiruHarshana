@@ -54,18 +54,18 @@ I'm a passionate Software Engineering student at **IJSE**, specializing in **Adv
 
 
 ---
-
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
 <div align="center">
 
 | Category       | Technologies                                                                 |
 |----------------|------------------------------------------------------------------------------|
-| **IDE's**      | <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" />       |
-| **Frontend**   | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,ts" /> |
-| **Backend**    | <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,mysql,mongodb" /> |
-| **UI Tools**   | <img src="https://skillicons.dev/icons?i=figma,xd" />                        |
-| **Others**     | <img src="https://skillicons.dev/icons?i=git,github,postman,arduino,firebase" /> |
+| **Back-End**   | ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java) ![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker) |
+| **Front-End**  | ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE) |
+| **Tools**      | ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) ![IntelliJIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown) |
+| **DevOps**     | ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git) ![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell) ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux) ![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub) ![Gitee](https://img.shields.io/badge/-Gitee-red?style=flat-circle&logo=Gitee) |
+| **Databases**  | ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB) ![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle) ![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis) |
+| **Learning**   | ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) ![PHP](https://img.shields.io/badge/-PHP-green?style=flat-circle&logo=php) ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs) |
 
 </div>
 
