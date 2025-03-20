@@ -16,11 +16,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate Software Engineering student at **IJSE**, specializing in **Advanced API Development** for cross-platform web applications. I enjoy building robust, scalable systems, creating intuitive user interfaces, and solving complex problems with elegant solutions.
+I'm a passionate **Software Developer** with a strong interest in building robust, scalable systems and creating intuitive user interfaces. I enjoy solving complex problems with elegant solutions and am always eager to learn and explore new technologies.
 
-- 💻 **Tech Stack**: Java, MySQL, JavaFX, JDBC, Hibernate, Java Sockets, HTML, CSS, JavaScript, Bootstrap, and Servlet Java.
+- 💻 **Tech Stack**: Python, Django, Flask, FastAPI, PostgreSQL, Redis, Celery, RabbitMQ, GraphQL, Docker, Kubernetes, Terraform, AWS, GCP, Azure, React, Next.js, Tailwind CSS, TypeScript, WebSocket, CI/CD, GitHub Actions.
 - 🌱 **Learning**: Currently diving into **IoT** and exploring its potential to revolutionize our lives.
-- 📫 **Reach Me**: [lharshana2002@gmail.com](mailto:lharshana2002@gmail.com) | [Portfolio](#) (Add your portfolio link here)
+- 📫 **Reach Me**: [lharshana2002@gmail.com](mailto:lharshana2002@gmail.com)
 - 🌐 **Let's Connect**: Always open to exciting discussions and collaborations!
 
 ---
