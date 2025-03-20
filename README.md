@@ -42,7 +42,7 @@ I'm a passionate Software Engineering student at **IJSE**, specializing in **Adv
 ---
 
 ### Profile Views
-counting of visitors to this page in this section started from July 30, 2023
+counting of visitors to this page in this section started from march 21, 2025
 
 <img src="https://count.getloli.com/get/@:LahiruHarshana?theme=gelbooru-h" alt=":name" />
 
