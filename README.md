@@ -57,9 +57,8 @@ I'm a passionate Software Engineering student at **IJSE**, specializing in **Adv
 
 <div align="center">
 
-<img align="left" width="390" src="https://streak-stats.demolab.com/?user=LahiruHarshana&theme=react&border=61dafb&hide_border=true" alt="LahiruHarshana" />
+<img align="center" width="390" src="https://streak-stats.demolab.com/?user=LahiruHarshana&theme=react&border=61dafb&hide_border=true" alt="LahiruHarshana" />
 
-<img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=LahiruHarshana&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="LahiruHarshana" />
 
 </div>
 
@@ -67,7 +66,6 @@ I'm a passionate Software Engineering student at **IJSE**, specializing in **Adv
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruHarshana&theme=react&hide_border=true&layout=compact" alt="LahiruHarshana" />
 
 </div>
 
