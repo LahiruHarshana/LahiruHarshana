@@ -25,6 +25,36 @@ I'm a passionate Software Engineering student at **IJSE**, specializing in **Adv
 
 ---
 
+
+<h4 align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|                                         @@
+@@     | |"| |                                         @@
+@@     ( ) ( )   Testing leads to failure              @@
+@@     |_| |_|   and failure leads to understanding    @@
+@@ _.-' _j L_ '-._                                     @@
+@@(___.'     '.___)                                    @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+
+</h4>  
+
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -57,8 +87,11 @@ I'm a passionate Software Engineering student at **IJSE**, specializing in **Adv
 
 <div align="center">
 
-<img align="center" width="390" src="https://streak-stats.demolab.com/?user=LahiruHarshana&theme=react&border=61dafb&hide_border=true" alt="LahiruHarshana" />
-
+<p align="center">
+  <img height="150" width="150" src="WEBP/left.webp"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="WEBP/right.webp"/>
+</p>
 
 </div>
 
