@@ -89,7 +89,7 @@ I'm a passionate **Software Developer** with a strong interest in building robus
 
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=react&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LahiruHarshana&theme=react&hide_border=true"/>
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
 
